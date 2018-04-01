@@ -37,7 +37,7 @@
 * MVP features
 * Final version features
 * Stretch goals
-* Which features you plan on having done one which days
+* Which features you plan on having done on which days
 
 ## Examples from previous classes
 
