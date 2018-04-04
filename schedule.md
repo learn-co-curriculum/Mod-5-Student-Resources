@@ -17,6 +17,7 @@
 	* Project schedule
 	* More details [here](./project_proposal_guidelines.md)
 * Finish up Redux labs
+* Start building approved project
 
 ### Thursday-Friday
 * 1-on-1's with assigned junior instructor
@@ -25,7 +26,7 @@
 
 ### Monday-Tuesday
 * 1-on-1's with assigned junior instructor
-* Finish up MVP
+* Finish building MVP version of project
 
 ### Wednesday
 * **MVP demo day**
