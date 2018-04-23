@@ -3,7 +3,7 @@
 ## Week 1
 ### Monday-Tuesday
 
-* Work with junior instructors to ideate and plan project.
+* Work with Technical Coaching Fellows to ideate and plan project.
 * Feasibility testing
 * Advanced Redux concepts and labs
 
@@ -20,24 +20,24 @@
 * Start building approved project
 
 ### Thursday-Friday
-* 1-on-1's with assigned junior instructor
+* 1-on-1's with assigned Technical Coaching Fellow
 
 ## Week 2
 
 ### Monday-Tuesday
-* 1-on-1's with assigned junior instructor
+* 1-on-1's with assigned Technical Coaching Fellow
 * Finish building MVP version of project
 
 ### Wednesday
 * **MVP demo day**
 
 ### Thursday-Friday
-* 1-on-1's with assigned junior instructor
+* 1-on-1's with assigned Technical Coaching Fellow
 
 ## Week 3
 
 ### Monday-Tuesday
-* 1-on-1's with assigned junior instructor
+* 1-on-1's with assigned Technical Coaching Fellow
 
 ### Wednesday
 * Final touches/styling
